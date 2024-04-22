@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://hoyathali.github.io/al-folio/sitemap.xml
